@@ -1,0 +1,24 @@
+body{
+    font-family: sans-serif;
+}
+
+.heading-days{
+    color: #fff;
+    font-size: 30px;
+}
+
+.container-form{
+    padding: 20px 0;
+    margin: 0 auto;
+    color: #000;
+}
+
+.form{
+    display: grid;
+    grid-row-gap: 20px;
+}
+
+.form-field{
+    display: flex;
+    justify-content: space-between;
+}
